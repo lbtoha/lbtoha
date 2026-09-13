@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Lutfur Bary Toha</h1>
-<h3 align="center">I'm MD. Lutfur Bary Toha, a passionate Front-End (React & Vue) developer from Bangladesh.</h3>
+<h3 align="center">I'm MD. Lutfur Bary Toha, a passionate  Full-stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbtoha&label=Profile%20views&color=0e75b6&style=flat" alt="lbtoha" /> </p>
 
